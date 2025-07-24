@@ -234,7 +234,7 @@ export default function WorkoutRoutine() {
             </h2>
             <Badge variant="secondary" className="ml-auto">
               <Calendar className="h-3 w-3 mr-1" />
-              Mar, , Sáb
+              Mar,Jue, Sáb
             </Badge>
           </div>
 
