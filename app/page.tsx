@@ -255,12 +255,14 @@ export default function WorkoutRoutine() {
                     Ideal después de correr, no carga piernas
                   </div>
                   <ul className="space-y-2 text-sm">
-                    <li>• Remo con mancuerna o polea – 3x10</li>
-                    <li>• Press de pecho con mancuernas – 3x10</li>
-                    <li>• Elevaciones laterales – 3x12</li>
-                    <li>• Curl de bíceps – 3x12</li>
-                    <li>• Extensión de tríceps – 3x12</li>
-                    <li>• Plancha + bird-dog – 2x30 seg + 2x10 c/lado</li>
+                    <li>• Movilidad articular</li>
+                    <li>• Jalon en polea brazos extendidos – 4x8</li>
+                    <li>• Jalon de pecho frontal – 3x12</li>
+                    <li>• Jalon de espalda – 3x12</li>
+                    <li>• Flexiones de pecho – 4x8</li>
+                    <li>• Press de banca con mancuernas o con barra – 4x10</li>
+                    <li>• Remo en máquina – 3x12</li>
+                    <li>• Triceps en – 4x8</li>
                   </ul>
                   <div className="text-xs text-green-600 bg-green-50 p-2 rounded mt-4">
                     ✅ Consejo: Usa pesos moderados y cuida tu postura
@@ -283,12 +285,17 @@ export default function WorkoutRoutine() {
                     Ideal después de correr si no sientes piernas pesadas
                   </div>
                   <ul className="space-y-2 text-sm">
-                    <li>• Sentadillas con mancuernas o barra guiada – 3x10</li>
-                    <li>• Peso muerto rumano con mancuernas – 3x10</li>
-                    <li>• Zancadas alternas – 3x10 c/pierna</li>
-                    <li>• Hip thrust – 3x12</li>
-                    <li>• Elevaciones de talón – 3x15</li>
-                    <li>• Plancha frontal – 2x30 seg</li>
+                    <li>• Movilidad articular</li>
+                    <li>• Sentadillas – 30seg/30seg descanso</li>
+                    <li>• Sentadillas Smith – 4x10</li>
+                    <li>• Peso muerto con mancuernas o barra – 4x10</li>
+                    <li>• Prensa – 3x12</li>
+                    <li>• Zancadas alternas – 3x12 c/pierna</li>
+                    <li>
+                      • Aductores (Sumo deadlift, sumo squat, maquina de
+                      aductores)– 3x12
+                    </li>
+                    <li>• Dorsales o superman – 4x20</li>
                   </ul>
                   <div className="text-xs text-blue-600 bg-blue-50 p-2 rounded mt-4">
                     💡 Tip: Hazlo solo si el trote fue suave
@@ -311,16 +318,19 @@ export default function WorkoutRoutine() {
                     Ideal para activar y trabajar control corporal
                   </div>
                   <div>
-                    <h4 className="font-medium text-purple-800 mb-2">
-                      Circuito x3 vueltas:
-                    </h4>
                     <ul className="space-y-2 text-sm">
-                      <li>• Kettlebell swing / peso muerto – 12</li>
-                      <li>• Step-ups – 10 por pierna</li>
-                      <li>• Remo TRX o máquina – 12</li>
-                      <li>• Plancha con toques de hombro – 10 por lado</li>
-                      <li>• Estocadas laterales – 10 por pierna</li>
-                      <li>• Estiramientos de 10 min al final</li>
+                      <li>• Movilidad articular </li>
+                      <li>• Burpees – 4x5</li>
+                      <li>
+                        • Press de banca inclinado o declinado con barra – 4x10
+                      </li>
+                      <li>• Sentadilla – 4x12</li>
+                      <li>• Press de hombro con mancuernas – 4x12 </li>
+                      <li>• Jalon en polea con cuerda – 4x12</li>
+                      <li>• Peso muerto con kettlebell – 4x20</li>
+                      <li>• Mountain climbers – 4x20</li>
+                      <li>• Isquiotibiales en polea – 4x12</li>
+                      <li>• Plancha – 4x30 seg</li>
                     </ul>
                   </div>
                   <div className="text-xs text-purple-600 bg-purple-50 p-2 rounded mt-4">
